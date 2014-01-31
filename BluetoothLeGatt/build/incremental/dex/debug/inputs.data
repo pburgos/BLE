@@ -1,0 +1,26 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1388765440000 766 2772dcd1e456578a478e36bccd12c9073a281cad /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/R$id.class
+1388765440000 532 373848b94a6eb055670fcc95e497643e03a6c784 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/R$layout.class
+1388765440000 11321 67ffa4ae44ae6ad8568e65709ebc50263360a0e1 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/DeviceControlActivity.class
+1388765440000 1024 7b7953c13d87f218cc91574d1bb2cf733bafc927 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/R$string.class
+1388764983000 358 20ca1a5d28e2f3df3089332a47910b6d4c3d2a1b /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/R$attr.class
+1388764983000 2204 492e79717cd9dcf4de9c19e339644b370edd1a0f /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/DeviceControlActivity$2.class
+1388764983000 2233 be6220dc4afe4045fcf1875f76bdf86677eba4a3 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/DeviceControlActivity$3.class
+1388764983000 703 847388539a7531c8903fbf30a703964cb6e1a265 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/BluetoothLeService$LocalBinder.class
+1388767011000 2183 96d4438fa2f5b7e23900d8719f18b1c6d0b03b28 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/DeviceScanActivity$2$1.class
+1388764983000 1958 c817e2e735c147e1654e02509e430533f016fd7a /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/DeviceControlActivity$1.class
+1388767011000 1148 dea0d649544244c150a39ee1bcdd77f9a906a9a5 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/DeviceScanActivity$2.class
+1388764983000 2953 d818658c563bef27e15d2b9885b8883ebf8c1b77 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/BluetoothLeService$1.class
+1388767011000 6593 0a2fbb403393b7cda8faf3d3fabfd428530f3619 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/DeviceScanActivity.class
+1388767011000 532 639ff9ff93bd4abac2bfba68a1a9563369e20036 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/DeviceScanActivity$ViewHolder.class
+1388767011000 1278 44423602f28bfcf99f80da553034c889f0e4aae8 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/DeviceScanActivity$1.class
+1388764983000 425 c20b67724113b16944b5df0bbf0c9bc202bc37b1 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/R$drawable.class
+1388765440000 443 78aef9cc40118ea862e5ce4a156dca1b089d6413 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/R$menu.class
+1388767011000 3310 a09836424352085be1c838278d57c0084a8268b3 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/DeviceScanActivity$LeDeviceListAdapter.class
+1388764983000 8169 3db15c80a49f6daa29feffb83e5c9e0e023475af /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/BluetoothLeService.class
+1388764983000 478 92beeaa14007afaa31ff2ed72e27e490e54dc801 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/BuildConfig.class
+1388764983000 932 8ef2ef0cbf6515d80f5fb91001bef7dc92e371c2 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/DeviceControlActivity$4.class
+1388764983000 1464 3bd936cd189dae148fb225efcec4d797e6edfa73 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/SampleGattAttributes.class
+1388765440000 629 78a24e672b6fd5b6db2594aa8858100593fb7cae /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/classes/debug/com/example/bluetooth/le/R.class

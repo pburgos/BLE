@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1388764956000 4186 2c641d29919fccd28bed22947eb077059ecce8c7 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1388764956000 1352 7a732e51b124c2c81242b82be5e98dfa9b8b0c6a /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/res/all/debug/menu/main.xml
+1388764956000 1077 14dfd450f2c5d40092563d66e009dc2e5c93316d /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/res/all/debug/layout/actionbar_indeterminate_progress.xml
+1388764956000 1379 5fade5e5b2551f13ac6df8ac05370071f437e071 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/res/all/debug/menu/gatt_services.xml
+1388764956000 5712 0e65f6bc945357cdbd346935e17090fa429b2db2 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1388765357000 1544 793faa3cb8df82057fd683b94b6ded870f85a074 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/res/all/debug/layout/listitem_device.xml
+1388764956000 2541 61e3f5a783c90215db681ae237d66767a7301b97 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1388764956000 1143 486f2d19f3458b7000fe879c6be2936fa8fea3d2 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/res/all/debug/values/values.xml
+1388764956000 3521 e0f8707f3e9e123e4ff3272c90c8ab835abccf27 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/res/all/debug/layout/gatt_services_characteristics.xml
+1388764956000 9611 f59a3845dce108fef1198934f4ac3bf70058d2b5 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/build/res/all/debug/drawable-xxhdpi/ic_launcher.png

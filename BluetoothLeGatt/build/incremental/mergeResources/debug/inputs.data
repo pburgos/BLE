@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1385095010000 5170 9beeacbabf65bbc958daa37b4621c449599701d7 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/src/main/res/drawable-hdpi/ic_launcher.png
+1385095007000 1265 08ea57de031220849c27c302557941bbcac6784e /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/src/main/res/menu/gatt_services.xml
+1388765349000 1426 ceca17cd16b6b12319abe35c7a16428803648d6b /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/src/main/res/layout/listitem_device.xml
+1385095010000 1247 6d72bb84560767921ec865e767dcc5bb341651a8 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/src/main/res/menu/main.xml
+1385095009000 3025 bc301929b7c67f63d4a8d690d223e4abec95da34 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/src/main/res/drawable-mdpi/ic_launcher.png
+1385095006000 3389 257b9fd923d444220f1d39cf974c190868be99ec /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/src/main/res/layout/gatt_services_characteristics.xml
+1385095010000 12800 76c99cb2dc50a6498aea899c1b81ac33b6c1c96a /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/src/main/res/drawable-xxhdpi/ic_launcher.png
+1385095009000 1662 4c46358f3590e46f942169173a3bf9d5cbe1e511 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/src/main/res/values/strings.xml
+1385095007000 7227 ae497c8f3f3d6f8789de7e11947124bdb5ecd459 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/src/main/res/drawable-xhdpi/ic_launcher.png
+1385095007000 942 3423c70421ab3f3409d3076957919b524521a287 /Users/pburgos/Development/BluetoothLeGatt/BluetoothLeGatt/src/main/res/layout/actionbar_indeterminate_progress.xml
